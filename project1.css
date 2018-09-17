@@ -10,14 +10,7 @@
   padding: 40px;
   text-align: center;
   margin:auto;
-  margin-top: 5%;
   color: white;
   font-family:helvetica, serif;
   font-weight: normal;
-}
-
-.box-img{
-  border-radius: 50%;
-  width: 200px;
-  height: 200px;
 }
